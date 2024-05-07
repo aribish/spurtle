@@ -1,8 +1,7 @@
 package main
 
 // i probably should have used the string library :(
-// honestly i bet this is way more efficient though
-// maybe ill remake it to compare :o
+// i bet this is way more efficient though
 
 import "core:fmt"
 import "core:os"
